@@ -9,4 +9,7 @@ git nie pokazuje pustych katalogów i nie da się ich dodać do git
 git rm -f Ela.txt - usuwa plik fizycznie z dysku i gita
 git rm --cached Ela.txt - usuwa plik ze śledzenia git
 git log --pretty= - można wybrać w jakim formacie pokaże log gita
-
+git reset - przywraca pliki do stany z poprzedniego commita
+git reset --hard (podobne do restore)
+git log --oneline --reflog - historia git cała
+git remote add origin https://github.com/SzczeMar/alx_cicd.git - dodawanie remote repository
