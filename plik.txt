@@ -1,5 +1,9 @@
 Ala ma kota.
+<<<<<<< HEAD
 Ola ma psa Tipsa MASTER
+=======
+Ola ma psa Tipsa DEVELOP
+>>>>>>> develop
 
 <<<<<<< HEAD
 
