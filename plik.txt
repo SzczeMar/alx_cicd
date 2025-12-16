@@ -1,2 +1,5 @@
 Ala ma kota.
 Ola ma psa Tipsa
+
+
+eno dodalem tu kolejny wpis w galęzi master
