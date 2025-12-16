@@ -1,16 +1,2 @@
 Ala ma kota.
-<<<<<<< HEAD
-Ola ma psa Tipsa MASTER
-=======
-Ola ma psa Tipsa DEVELOP
->>>>>>> develop
-
-<<<<<<< HEAD
-
-eno dodalem tu kolejny wpis w galęzi master
-=======
-deweolprpokckdkdo
-
-
-develop branch dodanie wpisu
->>>>>>> develop
+To se wyedytowałem na stronei GitHub
