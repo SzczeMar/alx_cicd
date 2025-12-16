@@ -1,5 +1,12 @@
 Ala ma kota.
 Ola ma psa Tipsa
 
+<<<<<<< HEAD
 
 eno dodalem tu kolejny wpis w galęzi master
+=======
+deweolprpokckdkdo
+
+
+develop branch dodanie wpisu
+>>>>>>> develop
