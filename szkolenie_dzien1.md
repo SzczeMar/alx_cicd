@@ -6,3 +6,7 @@ git commit -a -m "uzywam opcji -a, która dodaje do commitu wszytskie pliki mody
 
 git status -u - pokazuje pliki nieśledzone
 git nie pokazuje pustych katalogów i nie da się ich dodać do git
+git rm -f Ela.txt - usuwa plik fizycznie z dysku i gita
+git rm --cached Ela.txt - usuwa plik ze śledzenia git
+git log --pretty= - można wybrać w jakim formacie pokaże log gita
+
